@@ -1,0 +1,5 @@
+[core]
+    remote = testremote
+['remote "testremote"']
+    url = s3://mini666-distiller/data
+    endpointurl = https://sgp1.digitaloceanspaces.com
